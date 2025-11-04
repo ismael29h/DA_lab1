@@ -1,5 +1,7 @@
 # Primer Laboratorio de la Especialización en Análisis de Datos
 
+[Notebook en Colab](https://colab.research.google.com/drive/1fjIo_-eQZl7XEwU0tiRq-rw63OFB4ege?usp=sharing)
+
 ## Consideraciones Importantes
 
 1. **Origen del Dataset:**
@@ -22,3 +24,4 @@
 
 7. **Consideraciones en las Preguntas de Negocio:**
    Las preguntas de negocio incluidas como ejemplo han sido formuladas teniendo en cuenta las limitaciones del dataset o, al menos, buscando minimizar el impacto de las inconsistencias en los datos.
+
